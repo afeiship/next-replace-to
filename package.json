@@ -1,8 +1,8 @@
 {
-  "name": "next-replace-to-char",
+  "name": "next-replace-to",
   "version": "0.0.0",
   "description": "Replace to char for next.",
-  "homepage": "https://github.com/afeiship/next-replace-to-char",
+  "homepage": "https://github.com/afeiship/next-replace-to",
   "author": {
     "name": "afei",
     "email": "1290657123@qq.com"
@@ -10,7 +10,7 @@
   "scripts": {
     "build": "gulp"
   },
-  "main": "dist/next-replace-to-char.js",
+  "main": "dist/next-replace-to.js",
   "license": "MIT",
   "devDependencies": {
     "del": "^2.2.1",
