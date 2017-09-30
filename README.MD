@@ -2,7 +2,8 @@
 > Replace to char for next.
 
 
-## resources:
-
-## todos:
-- [ ] unit test case
+## usage:
+```js
+var phone = "13800006888";
+nx.replaceToChar( phone,3,-3,'*'),'138*****888' );
+```
